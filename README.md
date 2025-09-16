@@ -1,4 +1,4 @@
-UI/UX Course Journey
+**UI/UX Course Journey**
 
 “My learning journey and design projects from the Udemy UI/UX course.”
 
